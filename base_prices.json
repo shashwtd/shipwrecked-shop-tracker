@@ -1,0 +1,80 @@
+[
+  {
+    "id": "cmebn7caq0118nv01spx78x4t",
+    "name": "Raspbery PI 5",
+    "currentPrice": 464,
+    "basePrice": 502
+  },
+  {
+    "id": "cmebn55yi0116nv01orzpor1v",
+    "name": "Samsung T7 1TB SSD",
+    "currentPrice": 541,
+    "basePrice": 583
+  },
+  {
+    "id": "cmebmn7um010wnv012eongfmj",
+    "name": "Flipper Zero",
+    "currentPrice": 1066,
+    "basePrice": 1070
+  },
+  {
+    "id": "cme97z84p00r7nv01etg8md2q",
+    "name": "iPad 11-inch + Apple Pencil (USB-C)",
+    "currentPrice": 1903,
+    "basePrice": 2038
+  },
+  {
+    "id": "cmdsx1fef0052sd01ygneytpv",
+    "name": "E-fidgets",
+    "currentPrice": 58,
+    "basePrice": 57
+  },
+  {
+    "id": "cmdmch4xb056cqn01rc10afcq",
+    "name": "Donate a shell to the void",
+    "currentPrice": 1,
+    "basePrice": 1
+  },
+  {
+    "id": "cmdelz54j00celf013dx0xr84",
+    "name": "RTL-SDR V4 Kit",
+    "currentPrice": 292,
+    "basePrice": 295
+  },
+  {
+    "id": "cmdelstju00cclf01v5y89dr9",
+    "name": "Pinetime",
+    "currentPrice": 254,
+    "basePrice": 247
+  },
+  {
+    "id": "cmdelpbl000calf01fhievo7a",
+    "name": "Universal AI Credit",
+    "currentPrice": 49,
+    "basePrice": 47
+  },
+  {
+    "id": "cmdel7uer00c8lf017kdhtiaa",
+    "name": "Centauri",
+    "currentPrice": 1294,
+    "basePrice": 1215
+  },
+  {
+    "id": "cmdel771k00c6lf01coz5rlhz",
+    "name": "Centauri Carbon",
+    "currentPrice": 1802,
+    "basePrice": 1775
+  },
+  {
+    "id": "cmdel4iob00c3lf01obbetleo",
+    "name": "M4 mac mini",
+    "currentPrice": 2685,
+    "basePrice": 2655
+  },
+  {
+    "id": "cmd7in0r4000kro01x3l2c1v8",
+    "name": "Travel Stipend",
+    "currentPrice": 16,
+    "basePrice": 16
+  }
+]
