@@ -12,15 +12,7 @@ export default function Header() {
                 <ul className="flex items-center justify-center gap-6">
                     <li>
                         <Link
-                            href="/guide"
-                            className="hover:underline font-medium underline-offset-2"
-                        >
-                            How to use?
-                        </Link>
-                    </li>
-                    <li>
-                        <Link
-                            href="/guide"
+                            href="https://github.com/shashwtd/shipwrecked-shop-tracker"
                             className="bg-white/40 px-4 py-1.5 hover:text-black font-medium rounded-lg hover:bg-white/70 flex items-center justify-center gap-2"
                         >
                             <Github size={18} className="text-inherit" />
