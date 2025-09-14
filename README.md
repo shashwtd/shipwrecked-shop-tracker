@@ -12,6 +12,9 @@ The features offered by this tool are:
 
 To try out the prioject, go here: https://shipwrecked-shop-tracker.vercel.app
 
+## Preview:
+![Uploading image.png…]()
+
 ---
 
 <div align="center">
